@@ -1,0 +1,15 @@
+compilar
+========
+
+$ make
+
+executar
+========
+
+$ ./uhetball
+
+observacoes
+===========
+
+As chamadas aos arquivos de audio estao hardcoded com path relativo, por isso,
+deve ser executado no mesmo diretorio onde eh realizado o build

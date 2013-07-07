@@ -1,0 +1,15 @@
+{
+  "aluno": [
+    {
+      "nome": "Eder Ruiz Maria",
+      "email": [ "holoturoide@gmail.com", "erm@uhet.sh" ]
+    }
+  ],
+  "curso":        "Ciência da Computação",
+  "disciplina":   "Computação Grafica",
+  "data":         [2006, 0, 0],
+  "universidade": "Unioeste",
+  "cidade":       "Foz do Iguaçu",
+  "nota":         "",
+  "descricao":    "Jogo estilo breakout utilizando opengl"
+}
